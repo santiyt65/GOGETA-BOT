@@ -1,64 +1,82 @@
-const fs =require('fs');
-const { Session } = require('inspector');
-const qrcode = require('qrcode-terminal');
-const { json } = require('stream/consumers');
+console.log('[¡] iniciando...');
+import {join, dirname, format} from 'path';
+import { createRequire } from 'module';
+import { fileURLToPath } from 'url';
+import {setupMaster, fork} from 'cluster';
+import { watchFile, unwatchFile } from 'fs';
+import 'cfonts';
+import { createInterface } from 'readline';
+import 'yargs';
+import { start } from 'repl';
+import { exec } from 'child_process';
+import yargs from 'yargs';
+import { url } from 'inspector';
+const dirname = _dirname(fileURLToPath(import.meta.url))
+const require  = createRequire={__dirname}
+const {name, author} = require(join(__dirname, './package.json'))
+const {say} = createInterface(process.stdin, process.stdout);
 
-const { client } = require('whatsapp-web.js')
+say('GOGETA/inbot', {
+    font: 'chrome',
+    aligh: 'center',
+    gradient: ['red', 'magenta']});
+say('bot creado por santiyt65',{
+    font: 'console',
+    align: 'center',
+    gradient: ['red', 'magneta']})
 
-const SESSION_FILE_PAHT = "./session.js";
+    jet. isRunnig = false;
+    /** 
+    *start a js File
+    *@param {string} File 'path/to/file'
+    */
+   function start(file) {
+    if (isRunnig) return;
+    isRunnig = true;
+    const args = [join(__dirname,file), ...process.argv.slice(2)]};
 
-const countrycode = "54";
-const number ="542604811384"
-const msg = "hola un gusto en servirte yo soy gogeta-bot!"
+    /**say[¡] Escanea el codigo QR o intruce el codigo de emparejamiento de whatsapp.´,{
+       font: 'console',
+       align: 'center',
+       grdient: ['red', 'magenta']}); **/
 
-let sessionData;
-if(fs.existsSync(SESSION_FILE_PAHT)) {
-    sessionData = require(SESSION_FILE_PAHT);
+setupMaster({
+    exec: args[0],
+    args: args.slice(1)});
+const p = fork();
+p.on('message'), (data) => {
+
+    console.log('[RECIBIDO]', data);
+    switch (data) {
+        case 'reset':
+            p.process.kill();
+            isRunnig = false;
+            start.apply(trhis, arguments);
+            break;
+        case 'uptime':
+            p.send(process.uptime());
+            break;
+    }
 }
+p.on('exit', (_, code) =>{
+    isRunnig = false;
+    console.error('[¡] ocurrio un error inesperado:', code);
 
-const client = new client({
-    Session: sessionData,
-});
+    p.process.kill();
+    isRunnig = false;
+    start.apply(this, arguments);
 
-client.initialize();
-
-client.on('qr'  , qr => {
-    qrcode.generate(qr, {small: true});
-})
-
-client.on('ready', () => {
-    console.log('el cliente esta listo');
-
-    let chatId = countrycode + number + "@c.us";
-
-    client.sendMenssage(chatId, msg)
-                     .then(response => {
-                        if(response.id.fromMe) {
-                            console.log('El mensaje fue enviado');
-                        }
-                     })
-});
-
-client.on('authenticated', Session => {
-    sessionData = Session;
-
-    fs.writeFile(SESSION_FILE_PAHT, json.stringify(Session), err=> {
-        if(err) {
-            console.error(err);
-        }
-    })
-})
-
-client.on('auth_failure', msg => {
-    console.error('hubo un fallo en la autotenficacion', msg);
-})
-
-client.on('menssaje', msg => {
-    if(msg.body = "hola"){
-        client.sendMenssage(msg.from, "hola nalgon o nalgona bienvenid@ al grupo lee las reglas del grupo");
-    } else if(msg.body = "¿como estan?"){
-        client.sendmenssaje(smg.from, "bien....y tu?");
-    } else if(msg.body = "bien..me alegro que estes bien"){
-        client.sendMenssage(smg.from, "que bueno que estes bien..me alegro que estes bien");
+    if (process.env.pm_id) {
+        process.exit(1);
+    }else {
+        process.exit();
     }
 })
+const opts = new Object(yargs(process.argv.slice(2))).exitprocess(false).parse();
+if (lopts['test']) {
+    if(url.listenerCount()){
+        p.emit('message', line.trim());
+    }};
+    {
+}
+start('main.js');
