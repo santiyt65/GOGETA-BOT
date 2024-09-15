@@ -1,7 +1,6 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/santiyt65"
     },
     "plugins": {
         "antiarab": {
@@ -2620,20 +2619,8 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/5219992095479",
-                "—◉ Collaborator 1's number is wa.me/34642467703",
-                "—◉ Collaborator 2's number is wa.me/50499698072",
-                "—◉ Collaborator 3's number is wa.me/595986460945",
-                "—◉ Collaborator 4's number is wa.me/51940617554",
-                "—◉ Collaborator 5's number is wa.me/51995386439",
-                "—◉ Collaborator 6's number is wa.me/593991398786",
-                "—◉ Collaborator 7's number is wa.me/51996089079",
-                "—◉ Collaborator 8's number is wa.me/573225236629",
-                "—◉ Collaborator 9's number is wa.me/593959425714",
-                "—◉ Collaborator 10's number is wa.me/50246028932",
-                "—◉ Collaborator 11's contact is https://instagram.com/gata_dios",
-                "—◉ Collaborator 12's number is wa.me/5212412377467",
-                "—◉ Collaborator 13 in Brazil's number is wa.me/5545998331383"
+                "—◉ My creator's number is wa.me/542604200949",
+                "—◉ Collaborator 11's contact is https://github.com/santiyt65"
             ],
             "texto2": [
                 "「 Hello World 」",
@@ -2651,18 +2638,18 @@
                 "➤ BANK: STP",
                 "➤ BENEFICIARY: Bruno Sobrino",
                 "➤ CONCEPT: SUPPORT",
-                "➤ PAYPAL: https://www.paypal.me/TheShadowBrokers133",
+                "➤ PAYPAL: ",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/5219992095479"
+                "wa.me/542604200949"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
-                "▢ *Owner:* Bruno Sobrino",
-                "▢ *WA:* +5219992095479",
-                "▢ *PayPal:* paypal.me/TheShadowBrokers133",
+                "▢ *Owner:* santiyt65",
+                "▢ *WA:* +542604200949",
+                "▢ *PayPal:*",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
                 "▢ *Prefix:*",
@@ -2687,11 +2674,7 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Official Bot Groups:*",
-                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
-                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
-                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
-                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
-                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
+                "*1.-* https://chat.whatsapp.com/B989oWTkzPbFsmZLa6xjCE"
             ],
             "texto2": "「 Hello World 」",
             "texto3": "The best WhatsApp bot"
@@ -2719,7 +2702,7 @@
             "texto2": "The Best Hosting 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: > Official Page: > Control Panel: > Panel: > Support: https://chat.whatsapp.com/B989oWTkzPbFsmZLa6xjCE \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial:  INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/santiyt65/GOGETA-BOT/tree/main && cd GOGETA-BOT\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd GOGETA-BOT\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd GOGETA-BOT\n> rm -rf gogetasesions\n> npm start",
             "texto2": "The Best WhatsApp Bot"
         },
         "info_listprem": {
@@ -2754,12 +2737,12 @@
             "texto1": [
                 "_*< INFORMATION - REPOSITORY />*_",
                 "▢ *Name:*",
-                "TheMystic-Bot-MD",
+                "GOGETA-BOT",
                 "▢ *Visitors:*",
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/santiyt65/GOGETA-BOT/tree/main",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2882,14 +2865,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "THE MYSTIC - BOT",
+                "GOGETA-BOT",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
                 "▢ *Experience:* ",
                 "▢ *Ranking:* ",
                 "▢ *Diamonds:* ",
-                "▢ *Mystical Coins:* ",
+                "▢ *GOGETA COINS:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< MENU LIST />*_",
@@ -2975,7 +2958,7 @@
                 "*- Commit message:*",
                 "*- Committed by:*"
             ],
-       "texto3": "*[❗️] local changes have been made in bot files that conflict with the updates of the repository. To update, reinstall the bot or perform the updates manually.*\n\n*conflict files:*"
+            "texto3": "*[❗] Error while checking the repository*"
         },
         "owner_add_del_owner": {
             "texto1": [
@@ -3190,7 +3173,7 @@
             "texto3": "Bot Group List 🤖\n\n—◉ Total groups:"
         },
         "owner_join": {
-            "texto1": "[❗] Wrong or missing link, please insert the link of a WhatsApp group.\n\n*—◉ Example:\n◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
+            "texto1": "[❗] Wrong or missing link, please insert the link of a WhatsApp group.\n\n*—◉ Example:\n◉ #join https://chat.whatsapp.com/B989oWTkzPbFsmZLa6xjCE*",
             "texto2": "[ ✔️ ] Bot successfully joined the group.",
             "texto3": "[❗] Your group's link has been sent to my owner.\n\n*—◉ Your group will be under evaluation and the Bot owner will decide whether to add the Bot or not.\n\n—◉ Some reasons why your request might be denied are:\n1.- The Bot is saturated.\n2.- The Bot was recently removed from the group.\n3.- The group link has been reset.\n4.- The Bot is not added to groups by decision of the Bot owner.\n\n—◉ The evaluation process may take some time, even days, please be patient.",
             "texto4": "[❗] NEW REQUEST FOR A BOT FOR A GROUP [❗]\n\n—◉ Applicant:",
@@ -3259,12 +3242,6 @@
             "texto1": "Enter the name and folder of the image you want to view.",
             "texto2": "The image does not exist in the root folder."
         },
-        "owner_actualizar": {
- "texto1": "*_< OWNER - UPDATE />_*\n\n*[✅] There are no pending updates.*",
- "texto2": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] Update completed successfully.*\n\n",
- "texto3": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] local changes have been made in bot files that conflict with the updates of the repository. To update, reinstall the bot or perform the updates manually.*\n\n*conflict files:*",
- "texto4": "*_< OWNER - UPDATE />_*\n\n*[ℹ️] A mistake occurred. Please try it again later.*"
- },
         "random_kpop": {
             "texto1": [
                 "Usage",
@@ -3362,7 +3339,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamonds* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "GOGETA COINS* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3485,7 +3462,7 @@
                 "*—◉ Keep exploring and completing missions to reach new heights in the Guild of Adventurers. Keep interacting with the Bot!*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_gogetacoins": {
             "texto1": [
                 "What a pro 😎 you mined",
                 "🌟✨ Cool!! You receive",
@@ -3824,7 +3801,7 @@
             "texto11": [
                 "[ ⚠️ ] Warning",
                 "[ ⚠️ ] Warning",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://github.com/santiyt65/GOGETA-BOT/tree/main"
             ]
         },
         "participantsUpdate": {
