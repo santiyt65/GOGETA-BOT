@@ -6,7 +6,7 @@ const handler = async (m, {text, usedPrefix, command}) => {
   const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
   const tradutor = _translate.plugins.info_covid
 
-  if (!text) throw `${tradutor.texto1} ${usedPrefix + command} Mexico*`;
+  if (!text) throw `${tradutor.texto1} ${usedPrefix + command} ARGENTINA*`;
   const res = await fetch(global.API('https://covid19.mathdro.id', '/api/countries/'+ (text)));
   if (!res.ok) throw await res.text();
   const json = await res.json();
