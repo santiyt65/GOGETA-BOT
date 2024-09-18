@@ -53,18 +53,18 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
  
   ╭───── • ◆ • ─────╮ 
   ├❧ _${usedPrefix}🎵ᴍᴇɴᴜᴀᴜᴅɪᴏꜱ🎵_
-  ├❧ _${usedPrefix}menuanimes_
-  ├❧ _${usedPrefix}labiblia_
-  ├❧ _${usedPrefix}lang_ 
-  ├❧ _${usedPrefix}langgroup_ 
-  ├❧ _${usedPrefix}glx_
+  ├❧ _${usedPrefix}🌺ᴍᴇɴÚᴀɴɪᴍᴇꜱ🌺_
+  ├❧ _${usedPrefix}🥵ʟᴀʙɪʙʟɪᴀ🥵_
+  ├❧ _${usedPrefix}✨ʟᴀɴɢ✨_ 
+  ├❧ _${usedPrefix}🙌ʟᴀɴɢɢʀᴏᴜᴘ🙌_ 
+  ├❧ _${usedPrefix}🎆ɢʟx🎆_
   ╰───── • ◆ • ─────╯
  
   ${tradutor.texto1[11]}
  
   ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}terminosycondiciones_
-  ├❧ _${usedPrefix}grupos_
+  ├❧ _${usedPrefix}🐱‍👤ᴛᴇʀᴍɪɴᴏꜱʏᴄᴏɴᴅɪᴄɪᴏɴᴇꜱ🐱‍👤_
+  ├❧ _${usedPrefix}🧨ɢʀᴜᴘᴏꜱ🧨_
   ├❧ _${usedPrefix}estado_
   ├❧ _${usedPrefix}infobot_
   ├❧ _${usedPrefix}speedtest_
