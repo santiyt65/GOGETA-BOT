@@ -52,7 +52,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
  ${tradutor.texto1[10]}
  
   ╭───── • ◆ • ─────╮ 
-  ├❧ _${usedPrefix}menuaudios_
+  ├❧ _${usedPrefix}🎵ᴍᴇɴᴜᴀᴜᴅɪᴏꜱ🎵_
   ├❧ _${usedPrefix}menuanimes_
   ├❧ _${usedPrefix}labiblia_
   ├❧ _${usedPrefix}lang_ 
